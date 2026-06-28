@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="expense_title_hint">Expense Title</string>
+    <string name="amount_hint">Amount</string>
+    <string name="add_expense_button">Add Expense</string>
+    <string name="total_format">Total: ₹%d</string>
+</resources>
